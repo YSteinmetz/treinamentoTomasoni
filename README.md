@@ -173,9 +173,9 @@
             <li>Sistemas auxiliares</li>
             <li>Remota IO</li>
             <li>Remota Safety</li>
-            <li>IHM</li>
-            
+            <li>IHM</li>   
         </ul>
+    
         <li>Remota IO Entradas digitais:</li>
             <ul>
                 <li> Placa de montagem:</li>
