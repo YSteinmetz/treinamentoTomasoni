@@ -205,7 +205,7 @@
         <li>Layout do(s) painel(paineis)</li>
         <li>Lista de componentes</li>
     </ul>
-</ul>
+
 
 <h3> Topologia da rede</h3>
 
